@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>FreshCakeInAPyrex</title>
+</head>
+<body>
+<h1>Fresh Cake İn A Pyrex</h1>
+<p>Hello, today we will the birthday cake you see below. I will give the materials below. If you are ready, let's get started.</p>
+<img
+src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="birthday cake">
+<h2>Ingredients</h2>
+<ul>
+<li>3 eggs</li>
+<li>1 cup sugar</li>
+<li>1 cup oil</li>
+<li>1 cup milk</li>
+<li>2 cups flour</li>
+<li>3 tablespoons cacao</li>
+<li>1 packet vanillia</li>
+<li>1 packet baking powder</li>
+</ul>
+<h2>Instructions</h2>
+<ol>
+<li>Beat the eggs and sugar until they become white.</li>
+<li>Then add the flour, cacao, vanillia and baking powder using a sieve.</li>
+<li>After beating it well, put the cake in my baking tray.</li>
+<li>Let's cook in a preheated oven at 180 for 40 minutes.</li>
+<li>let it cool before serving. Enjoy!</li>
+</ol>
+</body>
+</html>
